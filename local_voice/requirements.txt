@@ -1,0 +1,3 @@
+chatterbox-tts==0.1.6
+# Perth imports pkg_resources; retain a compatible setuptools release.
+setuptools==80.9.0

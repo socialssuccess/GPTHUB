@@ -1,0 +1,10 @@
+.env
+node_modules/
+*.log
+output/
+.voice-venv/
+references/
+__pycache__/
+claude-config.local.json
+# Cloud-instance notes may contain private reference locations.
+local_voice/HERE.md
